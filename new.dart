@@ -1,3 +1,4 @@
 void main(){
-    print("this is mad lab");
+    var name = "new napp"
+    print("this is mad lab & this is an $name");
 }
